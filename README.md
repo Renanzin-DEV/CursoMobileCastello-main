@@ -14,7 +14,7 @@
             - Nativo
                 -- Android:
                     - IDE: Android Studio
-                    - S*oftware D*evelopment K*it: Android SDK
+                    - Software Development Kit: Android SDK
                     - Linguagens: Kotlin / Java
                     - Plataformas: Win / Linux / Mac
                 -- IOS:
